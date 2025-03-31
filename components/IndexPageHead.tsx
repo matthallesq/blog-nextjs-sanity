@@ -22,7 +22,7 @@ export default function IndexPageHead({ settings }: IndexPageHeadProps) {
       <BlogMeta />
       <meta
         key="description"
-        name="description"
+        name="lenzify"
         content={toPlainText(description)}
       />
       <meta
